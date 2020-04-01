@@ -1,0 +1,22 @@
+[
+ {
+  "descripcion": "bañarme",
+  "estado": "cumplido"
+ },
+ {
+  "descripcion": "tengo que programar",
+  "estado": "no cumplido"
+ },
+ {
+  "descripcion": "terminar todos los cursos",
+  "estado": "no cumplido"
+ },
+ {
+  "descripcion": "conseguir trabajo de programador",
+  "estado": "no cumplido"
+ },
+ {
+  "descripcion": "limpiar la casa",
+  "estado": "cumplido"
+ }
+]
