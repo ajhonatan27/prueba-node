@@ -13,7 +13,7 @@ switch (accion) {
             }*/
 
             tareasArray.forEach((tarea, i) => {
-                console.log(chalk.red((i + 1) + ' - ' + 'Descripción: ' + tarea.descripcion + ' -' + ' Estado ' + tarea.estado));
+                console.log(chalk.blue((i + 1) + ' - ' + 'Descripción: ' + tarea.descripcion + ' -' + ' Estado ' + tarea.estado));
             });
 
         }
